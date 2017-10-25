@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+   <body>
+   <table width="500" border = "0">
+   <tr>
+   <te colspan="2" style="background-color:#3F51B5;">
+      <h1>Team Ogre Magi</h1>
+   </td>
+   </tr>
+
+   <tr>
+   <td style="background-color:#C5CAE9;width:400px;">
+      <p>食人魔魔法师队</p><br>
+
+   </td>
+   <td>
+   <td style="background-color:#9FA8DA;height:200px;width:400px">
+      
+      <h4>队员名单</h4>
+      <ul style="list-style-type:disc">
+         <li>c0</li>
+	       <li>自乐</li>
+         <li>谭炎</li>
+         <li>陈镇东</li>
+         <li>郭江敏</li>
+   </td>
+   </tr>
+   </table>
+	       <img src="magi.jpg"/>
+   
+
+</body>
+</html>
