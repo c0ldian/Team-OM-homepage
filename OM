@@ -1,33 +1,32 @@
 <!DOCTYPE html>
 <html>
-   <body>
-   <table width="500" border = "0">
+   <body style="background-image:url(magi3.jpg);background-size:cover">
+   <table width="500" border = "0" align="center">
    <tr>
-   <te colspan="2" style="background-color:#3F51B5;">
-      <h1>Team Ogre Magi</h1>
+   <td colspan="2" style="width:800px">
+      <h1 align="center" style="font-family:Arial;color:white"></h1>
    </td>
    </tr>
 
    <tr>
-   <td style="background-color:#C5CAE9;width:400px;">
-      <p>食人魔魔法师队</p><br>
+   <td style="width:500px;">
+      <h1 align="center" style="font-family:Arial;color:white"><big>The Ogre Magi</big></h1><br>
 
    </td>
    <td>
-   <td style="background-color:#9FA8DA;height:200px;width:400px">
+   <td style="height:200px;width:400px">
       
-      <h4>队员名单</h4>
+      <h4 align="center" style="font-family:Microsoft Yahei;color:white">队员名单</h4>
       <ul style="list-style-type:disc">
-         <li>c0</li>
-	       <li>自乐</li>
-         <li>谭炎</li>
-         <li>陈镇东</li>
-         <li>郭江敏</li>
+         <li style="font-family:Microsoft Yahei;color:white">我</li>
+	 <li style="font-family:Microsoft Yahei;color:white">李自乐</li>
+         <li style="font-family:Microsoft Yahei;color:white">谭炎</li>
+         <li style="font-family:Microsoft Yahei;color:white">陈镇东</li>
+         <li style="font-family:Microsoft Yahei;color:white">郭江敏</li>
    </td>
    </tr>
    </table>
-	       <img src="magi.jpg"/>
-   
+
 
 </body>
 </html>
